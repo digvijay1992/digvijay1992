@@ -1,28 +1,44 @@
 # 👋 Hi, I'm Digvijay Singh
 
-## 🧪 Scientific Machine Learning (SciML) Engineer
+## 🧪 Scientific Machine Learning (SciML) Engineer | 🌊 Multiphase CFD Expert
 
-Welcome to my GitHub! I specialize in **Scientific Machine Learning** using Julia and Python.
+Welcome to my GitHub! I specialize in **Computational Fluid Dynamics (CFD)** , **Multiphase Flows**, and **Scientific Machine Learning** using Julia and Python.
+
+### 🔬 Areas of Expertise
+
+| Domain | Skills |
+|--------|--------|
+| **🌊 Multiphase CFD** | Eulerian-Eulerian, Eulerian-Lagrangian, VOF, DPM, Bubble columns, Fluidized beds |
+| **🧪 SciML** | Physics-Informed Neural Networks (PINNs), Neural ODEs, Data-driven modeling |
+| **📊 Numerical Methods** | Finite Volume Method (FVM), Finite Element Method (FEM), ODE/PDE solvers |
+| **💻 Programming** | Julia, Python, C++, MATLAB |
 
 ### 🔭 Current Focus
-- Solving differential equations with SciML
-- Physics-informed neural networks (PINNs)
-- Numerical methods for dynamical systems
+
+- 🚀 Applying SciML to multiphase flow problems
+- 📉 Data-driven turbulence modeling for bubbly flows
+- 🧠 Physics-informed ML for two-phase systems
+- ⚡ High-performance computing for CFD simulations
+
+### 🛠️ Tech Stack & Tools
+
+#### CFD & Simulation
+![OpenFOAM](https://img.shields.io/badge/-OpenFOAM-00BFFF?style=for-the-badge&logo=openfoam&logoColor=white)
+![ANSYS Fluent](https://img.shields.io/badge/-ANSYS%20Fluent-FF0000?style=for-the-badge&logo=ansys&logoColor=white)
+
+#### Scientific Computing
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 📚 My SciML Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [⚡ Simple Pendulum](https://github.com/digvijay1992/simple-pendulum-sciml) | ODE simulation of pendulum with external torque | Julia, DifferentialEquations.jl, Plots.jl |
-| 🚧 More Coming Soon | Neural ODEs | Julia, Flux.jl |
-| 🚧 More Coming Soon | PINNs for PDEs | Julia, Lux.jl |
-
-### 🛠️ Tech Stack
-
-![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+| [⚡ Simple Pendulum](https://github.com/digvijay1992/simple-pendulum-sciml) | ODE simulation of pendulum with external torque | Julia, DifferentialEquations.jl |
 
 ### 📈 GitHub Stats
 
@@ -34,17 +50,7 @@ Welcome to my GitHub! I specialize in **Scientific Machine Learning** using Juli
 
 ### 📫 Connect with Me
 
-- GitHub: [@digvijay1992](https://github.com/digvijay1992)
-- Portfolio: Coming soon
-- Email: digvijaysingh19921@gmail.com
-
----
-
-### 🚀 What I'm Learning
-
-- ⚡ Neural Differential Equations
-- 🧠 Physics-Informed Neural Networks  
-- 📊 Uncertainty Quantification in SciML
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digvijay1992)
 
 ---
 
