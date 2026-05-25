@@ -2,13 +2,13 @@
 
 ## 🧪 Scientific Machine Learning (SciML) Engineer | 🌊 Multiphase CFD Expert
 
-Welcome to my GitHub! I specialize in **Computational Fluid Dynamics (CFD)** , **Multiphase Flows**, and **Scientific Machine Learning** using Julia and Python.
+Welcome to my GitHub! I specialize in **Computational Fluid Dynamics (CFD)**, **Multiphase Flows**, and **Scientific Machine Learning** using Julia and Python.
 
 ### 🔬 Areas of Expertise
 
 | Domain | Skills |
 |--------|--------|
-| **🌊 Multiphase CFD** | Coupled Thin film and two fluid models, VOF-LPP, VOF, DPM, Porous Modeling,PID controller |
+| **🌊 Multiphase CFD** | Coupled Thin film and two fluid models, VOF-LPP, VOF, DPM, Porous Modeling, PID controller |
 | **🧪 SciML** | Physics-Informed Neural Networks (PINNs), Neural ODEs, Universal Differential Equations (UDEs), Data-driven modeling |
 | **📊 Numerical Methods** | Finite Volume Method (FVM), Finite Element Method (FEM), ODE/PDE solvers |
 | **💻 Programming** | Julia, Python, C++, MATLAB |
@@ -46,7 +46,7 @@ I leverage Julia’s **first-class SciML ecosystem** to build physics-aware ML m
 | **DiffEqFlux.jl** | Neural ODEs, universal differential equations |
 | **ComponentArrays.jl** | Parameter estimation & model discovery |
 
-**Ongoing focus:** Hybrid modeling – combining Gerris/OpenFOAM simulations with Julia-trained surrogates for faster multiphase flow predictions.
+**Objective:** Hybrid modeling – combining Fluent/Gerris/OpenFOAM simulations with Julia-trained surrogates for faster multiphase flow predictions.
 
 
 #### Machine Learning
