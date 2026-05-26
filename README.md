@@ -81,7 +81,7 @@ Welcome to my GitHub! I specialize in **Computational Fluid Dynamics (CFD)**, **
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digvijay1992)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/digvijay1992](https://www.linkedin.com/in/digvijae-singh-430612278/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digvijae-singh-430612278/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Digvijay-Singh-15?ev=hdr_xprf)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AIqSsVv3AlLHC9t6xV5E_4HuBb-q7vmQy51M2w6lIylt9lwkLJhkAPJ21rKdsYNGG0WRnKfRfvwBCKEbi4_H-Q&user=24bjxo4AAAAJ)
 
