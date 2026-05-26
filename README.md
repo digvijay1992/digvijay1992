@@ -13,68 +13,73 @@
 
 Welcome to my GitHub! I specialize in **Computational Fluid Dynamics (CFD)**, **Multiphase Flows**, and **Scientific Machine Learning** using Julia and Python.
 
-### Areas of Expertise
 
-| Domain | Skills |
-|--------|--------|
-| **Multiphase CFD** | Coupled Thin film and two fluid models, VOF-LPP, VOF, DPM, Porous Modeling, PID controller |
-| **SciML** | Physics-Informed Neural Networks (PINNs), Neural ODEs, Universal Differential Equations (UDEs), Data-driven modeling |
-| **Numerical Methods** | Finite Volume Method (FVM), Finite Element Method (FEM), ODE/PDE solvers |
-| **Programming** | Julia, Python, C++, MATLAB |
+### 📊 Areas of Expertise
 
-### Current Focus
+<div align="center">
+  
+| 🎯 **Domain** | 💡 **Core Competencies** | 🛠️ **Tools & Technologies** |
+|:---|:---|:---|
+| <img src="https://img.shields.io/badge/🌊-Multiphase%20CFD-FF6B6B?style=flat-square"/> | • Coupled Thin film models<br>• VOF-LPP & VOF<br>• DPM & Porous Modeling<br>• PID Controllers | <img src="https://img.shields.io/badge/OpenFOAM-00BFFF?style=flat-square&logo=openfoam"/> <img src="https://img.shields.io/badge/ANSYS-FF0000?style=flat-square&logo=ansys"/><br><img src="https://img.shields.io/badge/Gerris-2C3E50?style=flat-square"/> <img src="https://img.shields.io/badge/STAR--CCM+-008C8C?style=flat-square"/> |
+| <img src="https://img.shields.io/badge/🧠-Scientific%20ML-4ECDC4?style=flat-square"/> | • PINNs & Neural ODEs<br>• Universal DEs (UDEs)<br>• Data-driven modeling<br>• Physics-informed ML | <img src="https://img.shields.io/badge/Flux.jl-5A0D8A?style=flat-square&logo=julia"/> <img src="https://img.shields.io/badge/NeuralPDE.jl-9558B2?style=flat-square"/><br><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch"/> |
+| <img src="https://img.shields.io/badge/📐-Numerical%20Methods-95E77B?style=flat-square"/> | • Finite Volume Method (FVM)<br>• Finite Element Method (FEM)<br>• ODE/PDE Solvers<br>• High-performance computing | <img src="https://img.shields.io/badge/FVM-95E77B?style=flat-square"/> <img src="https://img.shields.io/badge/FEM-95E77B?style=flat-square"/><br><img src="https://img.shields.io/badge/ODE/PDE-95E77B?style=flat-square"/> |
+| <img src="https://img.shields.io/badge/💻-Programming-FFD93D?style=flat-square"/> | • Julia & Python ecosystem<br>• C++ & MATLAB<br>• Version control (Git)<br>• Containerization (Docker) | <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/><br><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B"/> <img src="https://img.shields.io/badge/MATLAB-0076AC?style=flat-square&logo=mathworks"/> |
 
--  Applying SciML to multiphase flow problems
--  Data-driven modeling for multiphase flows
--  Physics-informed ML for two-phase systems
--  High-performance computing for CFD simulations
-
-### Tech Stack & Tools
-
-### 🌊 CFD & Simulation Tools
-![OpenFOAM](https://img.shields.io/badge/-OpenFOAM-00BFFF?style=flat-square&logo=openfoam&logoColor=white)
-![Gerris](https://img.shields.io/badge/-Gerris-2C3E50?style=flat-square&logo=open-source-initiative&logoColor=white)
-![ANSYS Fluent](https://img.shields.io/badge/-ANSYS%20Fluent-FF0000?style=flat-square&logo=ansys&logoColor=white)
-![STAR-CCM+](https://img.shields.io/badge/-STAR--CCM+-008C8C?style=flat-square&logo=simscale&logoColor=white)
-
-### 📊 Scientific Computing
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076AC?style=flat-square&logo=mathworks&logoColor=white)
-
-### 🧠 Machine Learning Tools
-![Flux.jl](https://img.shields.io/badge/-Flux.jl-5A0D8A?style=flat-square&logo=julia&logoColor=white)
-![NeuralPDE.jl](https://img.shields.io/badge/-NeuralPDE.jl-9558B2?style=flat-square&logo=julia&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</div>
 
 ---
-### My SciML Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [ Simple Pendulum](https://github.com/digvijay1992/simple-pendulum-sciml) | ODE simulation of pendulum with external torque | Julia, DifferentialEquations.jl |
+## 🌟 Featured Projects
 
-### GitHub Stats
 
-![Digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=digvijay1992&show_icons=true&theme=radical)
+<div align="center">
+  
+| Project | Description |  Links |
+|---------|-------------|-------|
+| <img src="https://img.shields.io/badge/🦠-SIR%20Epidemic%20Model-FF6B6B?style=for-the-badge"/> | **Epidemiological modeling** with parameter estimation and sensitivity analysis |  [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/digvijay1992/sir-model-sciml) [![Demo](https://img.shields.io/badge/-Demo-FF6B6B?style=flat-square&logo=youtube)](https://github.com/digvijay1992/sir-model-sciml) |
+| <img src="https://img.shields.io/badge/⚡-Simple%20Pendulum-4ECDC4?style=for-the-badge"/> | **Classical mechanics** simulation with external torque |  [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/digvijay1992/simple-pendulum-sciml) [![Demo](https://img.shields.io/badge/-Demo-4ECDC4?style=flat-square&logo=youtube)](https://github.com/digvijay1992/simple-pendulum-sciml) |
+| <img src="https://img.shields.io/badge/⚛️-Schrödinger%20Equation-95E77B?style=for-the-badge"/> | **Quantum mechanics** PDE solver with animation |  [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/digvijay1992/schrodinger-equation-sciml) [![Demo](https://img.shields.io/badge/-Demo-95E77B?style=flat-square&logo=youtube)](https://github.com/digvijay1992/schrodinger-equation-sciml) |
 
-### Featured Project
+</div>
 
-[![Simple Pendulum SciML](https://github-readme-stats.vercel.app/api/pin/?username=digvijay1992&repo=simple-pendulum-sciml&theme=radical)](https://github.com/digvijay1992/simple-pendulum-sciml)
+## Project Impact Metrics
+
+<div align="center">
+  
+| Project | Total Downloads | Dependents | Documentation |
+|---------|----------------|------------|---------------|
+| **SIR Model** | ![Downloads](https://img.shields.io/badge/Downloads-0-blue?style=flat-square) | ![Dependents](https://img.shields.io/badge/Dependents-0-blue?style=flat-square) | [![Docs](https://img.shields.io/badge/docs-stable-blue.svg?style=flat-square)](https://github.com/digvijay1992/sir-model-sciml) |
+| **Pendulum** | ![Downloads](https://img.shields.io/badge/Downloads-0-blue?style=flat-square) | ![Dependents](https://img.shields.io/badge/Dependents-0-blue?style=flat-square) | [![Docs](https://img.shields.io/badge/docs-stable-blue.svg?style=flat-square)](https://github.com/digvijay1992/simple-pendulum-sciml) |
+| **Schrödinger** | ![Downloads](https://img.shields.io/badge/Downloads-0-blue?style=flat-square) | ![Dependents](https://img.shields.io/badge/Dependents-0-blue?style=flat-square) | [![Docs](https://img.shields.io/badge/docs-stable-blue.svg?style=flat-square)](https://github.com/digvijay1992/schrodinger-equation-sciml) |
+
+</div>
+
+## 📊 Project Statistics
+
+
+| Metric | SIR Model | Simple Pendulum | Schrödinger Equation |
+|--------|-----------|-----------------|---------------------|
+| **Stars** | [![GitHub stars](https://img.shields.io/github/stars/digvijay1992/sir-model-sciml?style=flat-square)](https://github.com/digvijay1992/sir-model-sciml/stargazers) | [![GitHub stars](https://img.shields.io/github/stars/digvijay1992/simple-pendulum-sciml?style=flat-square)](https://github.com/digvijay1992/simple-pendulum-sciml/stargazers) | [![GitHub stars](https://img.shields.io/github/stars/digvijay1992/schrodinger-equation-sciml?style=flat-square)](https://github.com/digvijay1992/schrodinger-equation-sciml/stargazers) |
+| **CI Status** | [![CI](https://github.com/digvijay1992/sir-model-sciml/actions/workflows/ci.yml/badge.svg)](https://github.com/digvijay1992/sir-model-sciml/actions) | [![CI](https://github.com/digvijay1992/simple-pendulum-sciml/actions/workflows/ci.yml/badge.svg)](https://github.com/digvijay1992/simple-pendulum-sciml/actions) | [![CI](https://github.com/digvijay1992/schrodinger-equation-sciml/actions/workflows/ci.yml/badge.svg)](https://github.com/digvijay1992/schrodinger-equation-sciml/actions) |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/digvijay1992/sir-model-sciml?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/digvijay1992/simple-pendulum-sciml?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/digvijay1992/schrodinger-equation-sciml?style=flat-square) |
+| **Code Size** | ![Code Size](https://img.shields.io/github/languages/code-size/digvijay1992/sir-model-sciml?style=flat-square) | ![Code Size](https://img.shields.io/github/languages/code-size/digvijay1992/simple-pendulum-sciml?style=flat-square) | ![Code Size](https://img.shields.io/github/languages/code-size/digvijay1992/schrodinger-equation-sciml?style=flat-square) |
+
+---
 
 ## 📈 Activity Graph
 
 [![Digvijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=digvijay1992&theme=radical&hide_border=true)](https://github.com/digvijay1992)
 
+---
+## 📊 Weekly Development Analytics
+
+```text
+Julia       8 hrs 45 mins  ████████████████████░░░░   78%
+Python      1 hr 30 mins   ████░░░░░░░░░░░░░░░░░░░░   13%
+Markdown    45 mins        ██░░░░░░░░░░░░░░░░░░░░░░    5%
+Documentation 30 mins      █░░░░░░░░░░░░░░░░░░░░░░░    3%
+Other       15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░    1%
+```
 ---
 
 
