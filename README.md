@@ -36,7 +36,7 @@ Welcome to my GitHub! I specialize in **Computational Fluid Dynamics (CFD)**, **
 
 ### Machine Learning with Julia
 
-I leverage Julia’s **first-class SciML ecosystem** to build physics-aware ML models:
+I leverage Julia's **first-class SciML ecosystem** to build physics-aware ML models:
 
 | Package | Application |
 |---------|-------------|
