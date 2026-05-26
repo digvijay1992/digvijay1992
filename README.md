@@ -4,14 +4,14 @@
 
 Welcome to my GitHub! I specialize in **Computational Fluid Dynamics (CFD)**, **Multiphase Flows**, and **Scientific Machine Learning** using Julia and Python.
 
-### 🔬 Areas of Expertise
+### Areas of Expertise
 
 | Domain | Skills |
 |--------|--------|
-| ** Multiphase CFD** | Coupled Thin film and two fluid models, VOF-LPP, VOF, DPM, Porous Modeling, PID controller |
-| ** SciML** | Physics-Informed Neural Networks (PINNs), Neural ODEs, Universal Differential Equations (UDEs), Data-driven modeling |
-| ** Numerical Methods** | Finite Volume Method (FVM), Finite Element Method (FEM), ODE/PDE solvers |
-| ** Programming** | Julia, Python, C++, MATLAB |
+| **Multiphase CFD** | Coupled Thin film and two fluid models, VOF-LPP, VOF, DPM, Porous Modeling, PID controller |
+| **SciML** | Physics-Informed Neural Networks (PINNs), Neural ODEs, Universal Differential Equations (UDEs), Data-driven modeling |
+| **Numerical Methods** | Finite Volume Method (FVM), Finite Element Method (FEM), ODE/PDE solvers |
+| **Programming** | Julia, Python, C++, MATLAB |
 
 ### Current Focus
 
