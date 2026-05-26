@@ -14,10 +14,9 @@
 Welcome to my GitHub! I specialize in **Computational Fluid Dynamics (CFD)**, **Multiphase Flows**, and **Scientific Machine Learning** using Julia and Python.
 
 
+
 ### 📊 Areas of Expertise
 
-<div align="center">
-  
 | 🎯 **Domain** | 💡 **Core Competencies** | 🛠️ **Tools & Technologies** |
 |:---|:---|:---|
 | <img src="https://img.shields.io/badge/🌊-Multiphase%20CFD-FF6B6B?style=flat-square"/> | • Coupled Thin film models<br>• VOF-LPP & VOF<br>• DPM & Porous Modeling<br>• PID Controllers | <img src="https://img.shields.io/badge/OpenFOAM-00BFFF?style=flat-square&logo=openfoam"/> <img src="https://img.shields.io/badge/ANSYS-FF0000?style=flat-square&logo=ansys"/><br><img src="https://img.shields.io/badge/Gerris-2C3E50?style=flat-square"/> <img src="https://img.shields.io/badge/STAR--CCM+-008C8C?style=flat-square"/> |
@@ -25,14 +24,12 @@ Welcome to my GitHub! I specialize in **Computational Fluid Dynamics (CFD)**, **
 | <img src="https://img.shields.io/badge/📐-Numerical%20Methods-95E77B?style=flat-square"/> | • Finite Volume Method (FVM)<br>• Finite Element Method (FEM)<br>• ODE/PDE Solvers<br>• High-performance computing | <img src="https://img.shields.io/badge/FVM-95E77B?style=flat-square"/> <img src="https://img.shields.io/badge/FEM-95E77B?style=flat-square"/><br><img src="https://img.shields.io/badge/ODE/PDE-95E77B?style=flat-square"/> |
 | <img src="https://img.shields.io/badge/💻-Programming-FFD93D?style=flat-square"/> | • Julia & Python ecosystem<br>• C++ & MATLAB<br>• Version control (Git)<br>• Containerization (Docker) | <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/><br><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B"/> <img src="https://img.shields.io/badge/MATLAB-0076AC?style=flat-square&logo=mathworks"/> |
 
-</div>
-
 ---
 
 ## 🌟 Featured Projects
 
 
-<div align="center">
+
   
 | Project | Description |  Links |
 |---------|-------------|-------|
@@ -40,19 +37,15 @@ Welcome to my GitHub! I specialize in **Computational Fluid Dynamics (CFD)**, **
 | <img src="https://img.shields.io/badge/⚡-Simple%20Pendulum-4ECDC4?style=for-the-badge"/> | **Classical mechanics** simulation with external torque |  [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/digvijay1992/simple-pendulum-sciml) [![Demo](https://img.shields.io/badge/-Demo-4ECDC4?style=flat-square&logo=youtube)](https://github.com/digvijay1992/simple-pendulum-sciml) |
 | <img src="https://img.shields.io/badge/⚛️-Schrödinger%20Equation-95E77B?style=for-the-badge"/> | **Quantum mechanics** PDE solver with animation |  [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/digvijay1992/schrodinger-equation-sciml) [![Demo](https://img.shields.io/badge/-Demo-95E77B?style=flat-square&logo=youtube)](https://github.com/digvijay1992/schrodinger-equation-sciml) |
 
-</div>
+
 
 ## Project Impact Metrics
 
-<div align="center">
-  
 | Project | Total Downloads | Dependents | Documentation |
-|---------|----------------|------------|---------------|
+|:---|:---:|:---:|:---|
 | **SIR Model** | ![Downloads](https://img.shields.io/badge/Downloads-0-blue?style=flat-square) | ![Dependents](https://img.shields.io/badge/Dependents-0-blue?style=flat-square) | [![Docs](https://img.shields.io/badge/docs-stable-blue.svg?style=flat-square)](https://github.com/digvijay1992/sir-model-sciml) |
 | **Pendulum** | ![Downloads](https://img.shields.io/badge/Downloads-0-blue?style=flat-square) | ![Dependents](https://img.shields.io/badge/Dependents-0-blue?style=flat-square) | [![Docs](https://img.shields.io/badge/docs-stable-blue.svg?style=flat-square)](https://github.com/digvijay1992/simple-pendulum-sciml) |
 | **Schrödinger** | ![Downloads](https://img.shields.io/badge/Downloads-0-blue?style=flat-square) | ![Dependents](https://img.shields.io/badge/Dependents-0-blue?style=flat-square) | [![Docs](https://img.shields.io/badge/docs-stable-blue.svg?style=flat-square)](https://github.com/digvijay1992/schrodinger-equation-sciml) |
-
-</div>
 
 ## 📊 Project Statistics
 
