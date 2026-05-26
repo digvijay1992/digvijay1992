@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Digvijay Singh
+#  Hello, This is Digvijay Singh
 
 ## 🧪 Scientific Machine Learning (SciML) Engineer | 🌊 Multiphase CFD Expert
 
